@@ -1,0 +1,36 @@
+[
+  {
+    "type": "circle",
+    "radius": 10
+  },
+  {
+    "type": "rectangle",
+    "width": 15,
+    "height": 15,
+    "border": "solid"
+  },
+  {
+    "type": "ellipse",
+    "width": 8,
+    "height": 6
+  },
+  {
+    "type": "triangle",
+    "base": 12,
+    "height": 8
+  },
+  {
+    "type": "circle",
+    "radius": 5
+  },
+  {
+    "type": "rectangle",
+    "width": 8,
+    "height": 6
+  },
+  {
+    "type": "triangle",
+    "bas": 5,
+    "height": 3
+  }
+]
