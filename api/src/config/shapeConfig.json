@@ -30,7 +30,7 @@
   },
   {
     "type": "triangle",
-    "bas": 5,
+    "base": 5,
     "height": 3
   }
 ]
